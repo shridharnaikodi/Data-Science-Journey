@@ -1,0 +1,7 @@
+1,shriiii,883
+2,djd
+3,cdn,
+3434
+
+pdd = pd.read_csv("data.csv",header=None,on_bad_lines="skip")
+print(pdd)
