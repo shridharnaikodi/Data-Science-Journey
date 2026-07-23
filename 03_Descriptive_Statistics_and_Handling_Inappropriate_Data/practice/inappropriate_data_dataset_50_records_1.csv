@@ -1,0 +1,53 @@
+Customer_ID,Age,Monthly_Income,Credit_Score,Gender,Education_Level,City,Loan_Status,City_dup
+1008,83,78578.27,488,FEMALE,Gradute,PUNE,Pending,PUNE
+1077,32,66351.58,840,Femlae,PG,Pune,rejected ,Pune
+1065,47,70782.39,571,FEMALE,Undergraduate,Delhi,approved,Delhi
+1043,-5,77625.76,704,male,Under Graduate,Hyderabad,Pending,Hyderabad
+1043,59,35856.88,547,M,post graduate,Chennai,Rejectd,Chennai
+1085,18,58606.58,200,FEMALE,Graduate,Chennai,Rejectd,Chennai
+1008,64,-45000,746,M,Post Graduate,Mumbai,Rejectd,Mumbai
+1069,28,52222.44,879,FEMALE,post graduate,Bengaluru,Rejected,Bengaluru
+1020,29.5,59497.15,421,FEMALE,Post Graduate,Pune,Pending,Pune
+1009,76,94898.83,720.5,Unknown,Undergraduate, Delhi ,Approved, Delhi 
+1008,98,47683.38,419,F,PhD,Bengaluru,Rejected,Bengaluru
+1097,82,84365.57,715,FEMALE,UG,Bengaluru,Rejected,Bengaluru
+1073,17,31342.6,762,female,Graduate,Delhi,Rejected,Delhi
+1076,102,58302.3,542,femAle,Post Graduate,Bengaluru,Approved,Bengaluru
+1071,51,125000.75,728,femAle,Post Graduate,Mumbai,Approved,Mumbai
+1078,44,76724.45,426,Unknown,PhD,PUNE,APPROVED,PUNE
+1051,96,79224.53,301,Femlae,UG,Hyderabad,Pending,Hyderabad
+1012,150,80866.94,312,male,UG,Bangalore,Approved,Bangalore
+1083,21,58025.5,540,M,Under Graduate,Pune,approved,Pune
+1045,57,55752.96,900,Unknown,UG, Delhi ,Rejectd, Delhi 
+1050,86,82159.52,332,female,Post Graduate,Bangalore,Pending,Bangalore
+1037,32,61173.91,546,Male,Undergraduate,mumbai ,APPROVED,mumbai 
+1018,56,0,707,FEMALE,PhD,Hyderabad,rejected ,Hyderabad
+1092,26,42334.26,381,femAle,Under Graduate,Bangalore,APPROVED,Bangalore
+1078,76,46610.95,719,Femlae,Under Graduate,Bengaluru,approved,Bengaluru
+1077,57,74943.21,448,Femlae,Post Graduate,Pune,Rejected,Pune
+1040,44,67848.51,775,Femlae,Post Graduate, Delhi ,Pending, Delhi 
+1082,35,78809.71,626,F,Undergraduate, Delhi ,rejected , Delhi 
+1054,65,56454.95,605,Male,Graduate,Bangalore,Approved,Bangalore
+1044,75,68170.79,364,Male,post graduate,Delhi,rejected ,Delhi
+1045,99,77511.81,551,female,post graduate,Pune,Approved,Pune
+1022,45.2,58813.07,806,Femlae,Gradute,Chennai,rejected ,Chennai
+1009,29,74135.5,262,M,Post Graduate,Chennai,rejected ,Chennai
+1055,89,51761.48,743,Femlae,PG,Delhi,Approved,Delhi
+1088,71,57738.92,570,Femlae,post graduate,Pune,Rejectd,Pune
+1006,78,57365.24,717,femAle,PG,Mumbai,Approved,Mumbai
+1085,23,41083.21,681,FEMALE,Under Graduate,Pune,Rejectd,Pune
+1082,43,74739.45,530,Unknown,Post Graduate,Bengaluru,Pending,Bengaluru
+1027,84,55611.95,450,Unknown,Graduate,Bengaluru,Approved,Bengaluru
+1063,89,65249.88,657,Femlae,Under Graduate,Mumbai,approved,Mumbai
+1016,54,74614.93,341, MALE ,PhD, Delhi ,Pending, Delhi 
+1075,87,73930.62,629,female,Post Graduate,Mumbai,approved,Mumbai
+1070,90,78307.7,311,femAle,PhD,Bangalore,Approved,Bangalore
+1035,49,63030.29,672,male,post graduate,PUNE,Rejectd,PUNE
+1006,95,56534.03,658,Unknown,Under Graduate, Delhi ,Rejectd, Delhi 
+1097,40,63405.64,304,Unknown,Post Graduate,Bengaluru,APPROVED,Bengaluru
+1044,36,31253.31,742, MALE ,Under Graduate,Pune,approved,Pune
+1089,76,36057.75,520,Femlae,Under Graduate,Mumbai,Pending,Mumbai
+1067,72,38546.01,761,female,Graduate,Delhi,Rejectd,Delhi
+1077,27,45055.06,277,Male,Graduate,Bangalore,approved,Bangalore
+1008,83,78578.27,488,FEMALE,Gradute,PUNE,Pending,PUNE
+1077,32,66351.58,840,Femlae,PG,Pune,rejected ,Pune
