@@ -28,4 +28,3 @@
 
 - `practice_questions.md` — 12 practice questions covering the full "Handling Inappropriate Data" checklist
 - `inappropriate_data_practice_solution.ipynb` — worked solutions, one code cell per question, with domain-assumption comments explaining every cleaning decision (valid ranges, whether to NaN vs. drop, category unification)
-
