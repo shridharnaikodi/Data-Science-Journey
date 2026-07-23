@@ -22,6 +22,5 @@
 - operations_in_pandas.ipynb
 
 ## Technologies
-
 - Python
 - Pandas
