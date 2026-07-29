@@ -1,0 +1,22 @@
+Use-case (Melbourne House Price Analysis) -- Use-case
+=========================================================================
+You need to create a model that can predict the price of house based on Car Parking availability, Landsize, BuildingArea, YearBuilt. 
+
+For that you are assigned as a Analyst and your job is to make the data compatible for Inferential stats.
+
+Perform the following tasks:
+
+1. Loading the data (pandas)
+2. Check for missing data and repair the same
+
+
+
+
+
+
+
+Perform above using both Stat approach and Domain approach. PFB the references for Domain approach
+
+The usual  car parking alloted to each house as per govt policy is 1 
+The Minimum build area for the building as per govt norms is 80
+Maximums buildings as per the census survey was built in year 2000.
